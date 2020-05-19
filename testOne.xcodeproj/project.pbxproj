@@ -43,7 +43,9 @@
 				69D1396D247370FA009FD161 /* testOne */,
 				69D1396C247370FA009FD161 /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
 		};
 		69D1396C247370FA009FD161 /* Products */ = {
 			isa = PBXGroup;
